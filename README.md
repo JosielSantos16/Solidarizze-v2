@@ -14,9 +14,6 @@ A aplicação consiste em um projeto FullStack de uma plataforma web voltada par
 
 ---
 
-## 📹 Apresentação em Vídeo
-
-<!-- Insira aqui o link do vídeo de demonstração -->
 
 ---
 
